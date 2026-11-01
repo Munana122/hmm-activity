@@ -68,10 +68,10 @@ Evaluated on the 12 unseen test recordings (93 windows). Overall window accuracy
 
 | Activity | Link |
 | --- | --- |
-| Standing | TODO |
-| Walking | TODO |
-| Jumping | TODO |
-| Still | TODO |
+| Standing | https://drive.google.com/file/d/1DQBTGKTbnS51OFbp-tRuzi0MqLLBSs4i/view?usp=sharing|
+| Walking | https://drive.google.com/file/d/1MTK6zL_t3QJMuRALPUt3ySJ4oX5TV9g2/view?usp=sharing|
+| Jumping | https://drive.google.com/file/d/1zvAXTlZ-K6yGO_UQnc2kYl0Oc3vjWY3V/view?usp=sharing|
+| Still | https://drive.google.com/file/d/12FSHDt4uZQUP-AEuQZU4wlIghmDLKWX7/view?usp=sharing|
 
 ## Author
 
