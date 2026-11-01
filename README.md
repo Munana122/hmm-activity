@@ -75,4 +75,4 @@ Evaluated on the 12 unseen test recordings (93 windows). Overall window accuracy
 
 ## Author
 
-TODO: your name and course.
+Munana Merveille
